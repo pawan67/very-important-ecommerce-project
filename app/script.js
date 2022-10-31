@@ -9,7 +9,7 @@ const showProducts = () => {
 };
 
 const redirectToProductPage = () => {
-  window.location.href = "https://www.youtube.com/watch?v=GtL1huin9EE";
+  window.location.href = "https://appopener.com/yt/peivkp0dc";
 };
 
 const stop = () => {
